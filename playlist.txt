@@ -5,3 +5,7 @@ for silence user
 
 
 add git diff example
+
+
+git push test
+this txt file is edited by bbonghag
